@@ -1,0 +1,11 @@
+{
+    "database": {
+      "connectionString": "mongodb://localhost:27017/myDbExpress"
+    },
+    "server": {
+      "port": 3000,
+      "jwtSecret": "MyJWTSecret@123",
+      "jwtExpiration": "1h"
+    }
+  }
+  
